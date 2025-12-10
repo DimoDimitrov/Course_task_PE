@@ -1,0 +1,4 @@
+Name: Misho | Faculty No: 121223121 | Group: 43 | Course: 3
+Grades: 3 4 5 6 5 6 4 5 6 4 4 3 4 3 5 
+Average: 4.46667
+
